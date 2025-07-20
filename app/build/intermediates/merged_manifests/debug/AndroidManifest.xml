@@ -23,7 +23,7 @@
         android:label="Song Tracker"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Material3.DayNight.NoActionBar" >
+        android:theme="@style/Theme.SongTracker" >
         <activity
             android:name="com.yourname.songtracker.MainActivity"
             android:exported="true" >

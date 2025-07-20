@@ -4,7 +4,7 @@
             "outputFile": "com.yourname.songtracker.app-mergeDebugResources-42:/values-fi/values-fi.xml",
             "map": [
                 {
-                    "source": "/home/codespace/.gradle/caches/8.14.2/transforms/75a3246e41262437bd7121f785caebf3/transformed/jetified-foundation-release/res/values-fi/values-fi.xml",
+                    "source": "/home/codespace/.gradle/caches/8.14.2/transforms/fc142d53bbb881dfb58df7e5faff1a7c/transformed/foundation-release/res/values-fi/values-fi.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/codespace/.gradle/caches/8.14.2/transforms/a909575c0b7e264456a37fb03bab86d9/transformed/jetified-ui-release/res/values-fi/values-fi.xml",
+                    "source": "/home/codespace/.gradle/caches/8.14.2/transforms/87e4af3f59f0346a2c32996957b314a8/transformed/ui-release/res/values-fi/values-fi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/codespace/.gradle/caches/8.14.2/transforms/0b195585e84bfabbecd743836e494405/transformed/jetified-material3-release/res/values-fi/values-fi.xml",
+                    "source": "/home/codespace/.gradle/caches/8.14.2/transforms/914b40baf7602ffe96bd54799920a387/transformed/material3-release/res/values-fi/values-fi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

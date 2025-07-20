@@ -9,7 +9,6 @@ import com.yourname.songtracker.ui.theme.SongTrackerTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         val database = SongDatabase.getDatabase(applicationContext)
         val dao = database.songDao()
 
@@ -18,7 +17,6 @@ class MainActivity : ComponentActivity() {
                 val viewModel: SongViewModel = viewModel(
                     factory = SongViewModelFactory(dao)
                 )
-
                 SongTrackerUI(viewModel)
             }
         }
